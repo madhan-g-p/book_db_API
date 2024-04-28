@@ -8,4 +8,4 @@
 |          |                     | isbn,publication_date|
 | DELETE   |/book-entry/:isbn    | isbn                 |
 
-# The above 4 methods are implemented with postgres database evaluator just need to run dbConnection/setupDB.js fileto setup database tables
+# The above 4 methods are implemented with postgres database. Evaluator just need to run dbConnection/setupDB.js file to setup database tables
